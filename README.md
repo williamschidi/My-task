@@ -8,7 +8,8 @@
 
 <p> In summary, Git is the version control system, while Github is a web-based platform that utilizes Git for collaborative software development and provides additional tools and feature</p>
 
-```Three other Github alternatives includes
+```
+Three other Github alternatives includes
 BitBucket
 GitLab
 SourceForge
