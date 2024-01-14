@@ -1,4 +1,4 @@
-# My-task
+# Task 2 - Git and Version Control
 
 <p> Version control is a system that manage changes to a project's source code or file over time. It allows multiple contribution to work on the file concurrently, track modifications, and facilitates collaboration by providing a history of changes.</p>
 
